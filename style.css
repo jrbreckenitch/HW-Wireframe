@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+    width: 500px;
+}
+
+h1, p {
+    color: #777;
+    background: #ebebeb;
+}
+
+div {
+    width: 495px;
+}
+
+.whiteBackground {
+    background: #ebebeb;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
