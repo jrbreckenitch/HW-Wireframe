@@ -102,3 +102,7 @@ footer {
 .extraMargin {
     margin-top: 55px
 }
+
+.inline {
+    display: inline;
+}
